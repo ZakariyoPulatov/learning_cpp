@@ -1,3 +1,4 @@
+// Sana 
 // 3 xonali sonni 1lik lar va 10liklar xonasidagi raqamini chiqarish
 
 #include <iostream>

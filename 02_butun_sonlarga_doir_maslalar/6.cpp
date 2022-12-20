@@ -11,7 +11,7 @@ int main ()
     cout <<"a= "; cin >> a;
 
     cout <<"ab= " << "o'nlar xonasidagi butun raqam= " << ab / 10 << endl;
-    cout <<"ab= " << "birlar xoansidagi raqam= " << ab % a << endl;
+    cout <<"ab= " << "birlar xoansidagi raqam= " << ab % 10<< endl;
 return 0;
 
 }
