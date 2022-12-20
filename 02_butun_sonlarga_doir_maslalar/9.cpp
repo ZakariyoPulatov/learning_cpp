@@ -13,7 +13,7 @@ int main ()
     cout << "abc= "; cin >> abc;
 
     cout << " abc= " << "yuzlar xonasidagi raqam= " << abc / 100 << endl;
-
+    
     return 0;
 
 
