@@ -1,5 +1,6 @@
-// Sana 
-// 3 xonali sonni 1lik lar va 10liklar xonasidagi raqamini chiqarish
+// Sana 2022.12.20
+// Mullif; Zakariyo Pulatov
+// Maqsad; 3 xonali sonni 1lik lar va 10liklar xonasidagi raqamini chiqarish
 
 #include <iostream>
 
