@@ -1,5 +1,6 @@
-// a kesmani ichida b kesma necha marta joylashadi?
-
+//Sana: 2022.12.18
+//Muallif:
+//Maqsad: a kesmani ichida b kesma necha marta joylashadi?
 #include <iostream>
 
 using namespace std;
