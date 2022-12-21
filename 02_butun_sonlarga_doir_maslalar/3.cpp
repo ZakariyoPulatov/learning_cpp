@@ -1,3 +1,5 @@
+//Sana; 2022.12.18
+//Muallif; Zakariyo Pulatov
 #include <iostream>
 
 using namespace std;

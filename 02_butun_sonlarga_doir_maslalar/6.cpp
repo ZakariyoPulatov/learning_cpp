@@ -8,13 +8,10 @@ using namespace std;
 
 int main ()
 {   
-    int ab, a; 
+    int raqam = 25;
     
-    cout <<"ab= "; cin >> ab;
-    cout <<"a= "; cin >> a;
-
-    cout <<"ab= " << "o'nlar xonasidagi butun raqam= " << ab / 10 << endl;
-    cout <<"ab= " << "birlar xoansidagi raqam= " << ab % 10<< endl;
+    cout << raqam << "=o'nlar xonasidagi butun raqam= " << raqam / 10 << endl;
+    cout << raqam << "=birlar xoansidagi raqam= " << raqam % 10 << endl;
     
     return 0;
 }

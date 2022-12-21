@@ -1,5 +1,5 @@
 // Sana: 2022-12-18
-// Muallif:
+// Muallif: Zakariyo Pulatov
 // Maqsad: uzunlikdagi metrlar sonini aniqlash
 
 #include <iostream>

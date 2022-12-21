@@ -7,11 +7,9 @@ using namespace std;
 
 int main () 
 {
-    int a, b, c;
+    int abc;
 
-    cout <<"a= "; cin >> a;
-    cout <<"b= "; cin >> b; 
-    cout <<"c= "; cin >> c;
+    cout <<"abc=
 
     cout <<"abc sonlar yig'indisi topish= " << a + b +c << endl;
 
