@@ -8,20 +8,9 @@ using namespace std;
 
 int main ()
 {
-    int a, b, c;
+    int raqam = 75;
 
-    cout << "a= "; cin >> a;
-    cout << "b= "; cin >> b;
-    cout << 'c= '; cin >> c;
-
-
-    cout << " a=" << endl;
+    cout << raqam " 'orin almashtirish= " << ( raqam / 10 ) + ( raqam % 10 * 10 )<< endl;
 
     return 0;
-
-    cout <<
-
-
-
-
 }
