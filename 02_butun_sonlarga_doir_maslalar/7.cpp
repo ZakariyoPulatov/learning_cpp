@@ -1,6 +1,6 @@
-//Sana; 2022.12.20
-//Mullif; Zakariyo Pulatov
-//Maqsad; Ikki xonali son berilgan. Uning raqamlar yig'indisini aniqlovchi Pr tuzilsin
+//Sana: 2022.12.20
+//Mullif: Zakariyo Pulatov
+//Maqsad: Ikki xonali son berilgan. Uning raqamlar yig'indisini aniqlovchi Pr tuzilsin
 #include <iostream>
 
 using namespace std;
