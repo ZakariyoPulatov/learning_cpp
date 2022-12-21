@@ -7,12 +7,9 @@ using namespace std;
 
 int main ()
 {
-    int a, b;
+    int raqam = 54;
 
-    cout << "a= "; cin >> a;
-    cout << "b= "; cin >> b;
-
-    cout << "a + b= " << a + b <<  endl;
+    cout << raqam << "raqamalar yig'indisi= " << ( raqam / 10 ) + (raqam % 10 ) <<  endl;
 
     return 0;
-}
+} 
