@@ -1,6 +1,6 @@
-//Sana; 2022.12.19
-//Muallif; Zakariyo Pulatov
-//Maqsad;
+//Sana: 2022.12.19
+//Muallif: Zakariyo Pulatov
+//Maqsad: A va B (A>B) musbat son berilgan. A kesmada B kesmani necha martta joylashtirish mumkin 
 # include <iostream>
 # include <math.h>
 using namespace std;
