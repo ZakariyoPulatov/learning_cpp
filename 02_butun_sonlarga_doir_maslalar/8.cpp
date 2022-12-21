@@ -1,6 +1,6 @@
-//Sana; 2022.12.20
-//Muallif; Zakariyo Pulatov
-//Maqsad; Ikki xonali son berilgan. Uning raqamlarini o'rnini almashtrishdan hosil bo'lgan sonni aniqlovchi Pr tuzilsin
+//Sana: 2022.12.20
+//Muallif: Zakariyo Pulatov
+//Maqsad: Ikki xonali son berilgan. Uning raqamlarini o'rnini almashtrishdan hosil bo'lgan sonni aniqlovchi Pr tuzilsin
 
 # include <iostream>
 
