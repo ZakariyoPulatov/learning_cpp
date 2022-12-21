@@ -1,6 +1,6 @@
-// Sana 2022.12.20
-// Mullif; Zakariyo Pulatov
-// Maqsad; 3 xonali sonni 1lik lar va 10liklar xonasidagi raqamini chiqarish
+// Sana: 2022.12.20
+// Mullif: Zakariyo Pulatov
+// Maqsad: 3 xonali sonni 1lik lar va 10liklar xonasidagi raqamini chiqarish
 
 #include <iostream>
 
@@ -13,7 +13,6 @@ int main () {
     cout << number << " ning birlar xonasidagi raqami: " << number % 10 <<  endl;
     cout << number << " ning onlar xonasidagi raqami: " << number % 100 / 10 <<  endl;
     cout << number << " ning yuzlar xonasidagi raqami: " << number / 100 <<  endl;
-
 
     return 0;
 }
