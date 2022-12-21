@@ -9,7 +9,7 @@ int main ()
 {
     int son = 345;
 
-    cout << son << "korinish= " << (son/100) + (son%100/10*10) + (son%10*100) << endl;
+    cout << son << " korinish= " << (son/100) + (son%100/10*10) + (son%10*100) << endl;
 
     return 0;
 }
