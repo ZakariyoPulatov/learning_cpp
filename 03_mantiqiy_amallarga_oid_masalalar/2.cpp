@@ -7,9 +7,9 @@ using namespace std;
 
 int main ()
 {
-    bool a = 65;
+    bool a = 11;
 
-    cout << " natija = " << !(a % 2) << endl;
+    cout << " natija = " << !(a % 2 ) << endl;
 
     return 0;
 }
