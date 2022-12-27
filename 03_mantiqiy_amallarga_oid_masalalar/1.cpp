@@ -7,9 +7,11 @@ using namespace std;
 
 int main ()
 {
-    int a;
-    bool rost;
+    bool a = true;
 
-    cout << a << r
+    a > 0;
 
+    cout << a << endl;
+
+    return 0;
 }
