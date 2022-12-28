@@ -7,7 +7,11 @@ using namespace std;
 
 int main ()
 {
-    bool a = 12;
+    int a = 5;
+    bool natija;
+    a = !(a % 2);
 
-    cout << " natija = " << a 
+    cout << "natija =" << a << endl;
+
+    return 0; 
 }

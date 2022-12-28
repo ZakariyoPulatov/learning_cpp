@@ -7,7 +7,8 @@ using namespace std;
 
 int main ()
 {
-    bool a = 10;
+    int a = 11;
+    bool natija;
 
     cout << " natija = " << ( a % 2 ) << endl;
     
