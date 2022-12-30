@@ -7,11 +7,10 @@ using namespace std;
 
 int main ()
 {
-    bool a = true;
+    int a = 1;
+    bool natija;
 
-    a > 0;
-
-    cout << a << endl;
+    cout << " natija = " << (a > 0) << endl;
 
     return 0;
 }
