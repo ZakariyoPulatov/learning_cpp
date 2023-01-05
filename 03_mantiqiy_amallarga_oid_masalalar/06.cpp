@@ -7,12 +7,12 @@ using namespace std;
 
 int main ()
 {
-    int a = 6, b = 2, c = 1;
+    int a = 4, b = 2, c = 3;
     bool natija;
 
-    natija = a <= b <= c;
+    natija = ( a <= b ) && ( b <= c );
 
-    cout << " natija = " << natija  << endl;
+    cout << " natija = " << natija << endl;
 
     return 0;
 }
