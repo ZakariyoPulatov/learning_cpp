@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int main ()
+int main()
 {
     int n = 123;
     bool natija;

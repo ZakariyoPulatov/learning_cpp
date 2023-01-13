@@ -5,9 +5,9 @@
 
 using namespace std;
 
-int main ()
+int main()
 {
-    int n = 26;
+    int n = 22;
     bool natija;
 
     cout <<  " natija = " << !(n % 2) << endl;

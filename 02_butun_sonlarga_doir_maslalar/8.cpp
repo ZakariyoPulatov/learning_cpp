@@ -2,7 +2,7 @@
 //Muallif: Zakariyo Pulatov
 //Maqsad: Ikki xonali son berilgan. Uning raqamlarini o'rnini almashtrishdan hosil bo'lgan sonni aniqlovchi Pr tuzilsin
 
-# include <iostream>
+#include <iostream>
 
 using namespace std;
 

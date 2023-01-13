@@ -5,9 +5,9 @@
 
 using namespace std;
 
-int main ()
+int main()
 {
-    int a, b;
+    int a = 3, b =6;
     bool natija;
 
     cout << " a soni toq son = " << ( a % 2 ) << " b soni juft son = " << !( b % 2 ) << endl;

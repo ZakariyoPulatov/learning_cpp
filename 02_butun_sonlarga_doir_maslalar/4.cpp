@@ -1,12 +1,12 @@
 //Sana: 2022.12.18
-//Muallif:
+//Muallif: Zakariyo Pulatov
 //Maqsad: a kesmani ichida b kesma necha marta joylashadi?
 #include <iostream>
 
 using namespace std;
 
-int main() {
-
+int main() 
+{
     int a, b;
 
     cout << "a = ";     cin >> a;

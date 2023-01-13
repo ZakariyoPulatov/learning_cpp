@@ -5,13 +5,13 @@
 
 using namespace std;
 
-int main ()
+int main()
 {
-    int a = 3; b = 5;
+    int a = 3, b = 5;
     bool natija;
 
-    cout << " natija a = " << !(a%2) << endl;
-    cout << " natija b = " << !(b%2) << endl;
+    cout << " natija a = " << (a%2) << endl;
+    cout << " natija b = " << (b%2) << endl;
 
     return 0;
 }

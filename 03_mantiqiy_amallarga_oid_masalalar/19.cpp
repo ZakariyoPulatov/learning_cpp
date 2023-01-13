@@ -10,5 +10,5 @@ int main ()
     int a = 2, b = -5, c = 5;
     bool natija;
 
-    cout << " natija = " << (a>0) && (b)
+    
 }

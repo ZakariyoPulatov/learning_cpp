@@ -2,11 +2,11 @@
 //Muallif: Zakariyo Pulatov
 //Maqsad: Uch xonalik son berilgan. Uning yuzlar xonasidagi raqamini aniqlovchi Pr tuzilsin
 
-# include <iostream>
+#include <iostream>
 
 using namespace std;
 
-int main ()
+int main()
 {
     int son = 123;
 
