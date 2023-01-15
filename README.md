@@ -36,3 +36,28 @@ learning cpp <br>
 ```
     git push
 ```
+
+```
+    if (true) {
+
+    }
+        ***
+    if (true) {
+
+    } else {
+
+    }
+        ***
+        
+    if (true) {
+
+    } else if (true) {
+
+    } else if (true) {}
+        ...
+        ...
+        ...   
+    } else {
+
+    }
+```

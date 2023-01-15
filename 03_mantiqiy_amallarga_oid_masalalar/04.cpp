@@ -10,7 +10,7 @@ int main()
     int a = 3, b = 2;
     bool natija;
 
-    cout << " natija a = " << ( a > 2 ) << " natija b = " << ( b <= 3 ) << endl;
+    cout << " natija = " <<( ( a > 2 ) && ( b <= 3 ) )<< endl;
 
     return 0;
 }

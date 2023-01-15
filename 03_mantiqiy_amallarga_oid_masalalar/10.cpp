@@ -7,10 +7,10 @@ using namespace std;
 
 int main()
 {
-    int a = 3, b =6;
+    int a = 1, b =1;
     bool natija;
 
-    cout << " a soni toq son = " << ( a % 2 ) << " b soni juft son = " << !( b % 2 ) << endl;
+    cout << ((( a % 2 ) == 1 && ( b % 2 ) == 0) || (( a % 2 ) == 0 && ( b % 2 ) == 1)) << endl;
 
     return 0;
 }

@@ -10,7 +10,7 @@ int main()
     int a = 3;
     bool natija;
 
-    cout << " natija = " << ( a % 2 ) << endl;
+    cout << " natija = " << (( a % 2 ) == 1 )<< endl;
 
     return 0;
 }

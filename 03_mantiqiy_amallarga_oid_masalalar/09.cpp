@@ -10,8 +10,7 @@ int main()
     int a = 3, b = 4;
     bool natija;
 
-    cout << " a soni toq son = " << ( a % 2 ) << endl;
-    cout << " b soni juft son = " << !( b % 2 ) << endl;
+    cout << "  = " << (( a % 2 ) == 1 || ( b % 2 ) == 1) << endl;
 
     return 0;   
 }
