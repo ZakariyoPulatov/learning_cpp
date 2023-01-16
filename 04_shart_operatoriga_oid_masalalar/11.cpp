@@ -21,9 +21,9 @@ int main() {
             cout << " b = " << b << endl;
             
             return 0;
-    }else 
-        cout << " a = " << (a=0) << endl;
-        cout << " b = " << (b=0) << endl;
+        }else 
+            cout << " a = " << (a=0) << endl;
+            cout << " b = " << (b=0) << endl;
 
     return 0;
 }
