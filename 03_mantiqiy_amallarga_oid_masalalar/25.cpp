@@ -1,12 +1,12 @@
 // Sana: 2023.01.14
 // Muallif: Zakariyo Pulatov
-// Maqsad: x, y sonlar berilgan. Jumlani rostlikka tekshiring: " kordinatalari (x,y) bo'lgan nuqta, kordinata choraging 2-sida yotadi"
+// Maqsad: x, y sonlar berilgan. Jumlani rostlikka tekshiring: " kordinatalari (x,y) bo'lgan nuqta, kordinata choragining 2-sida yotadi"
 #include <iostream>
 
 using namespace std;
 
-int main()
-{
+int main() {
+    
     int x, y;
     bool natija;
 

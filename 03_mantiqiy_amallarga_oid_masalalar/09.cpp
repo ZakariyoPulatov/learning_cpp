@@ -5,12 +5,12 @@
 
 using namespace std;
 
-int main()
-{
-    int a = 3, b = 4;
+int main() {
+
+    int a = 5, b = 4;
     bool natija;
 
-    cout << "  = " << (( a % 2 ) == 1 || ( b % 2 ) == 1) << endl;
+    cout << " natija = " << (( a % 2 ) == 1 || ( b % 2 ) == 1) << endl;
 
     return 0;   
 }

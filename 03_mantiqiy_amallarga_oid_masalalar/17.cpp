@@ -5,12 +5,12 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
+
     int n = 123;
     bool natija;
 
-    cout << " natija = " << n % 2 << endl; 
+    cout << " natija = " << ((n % 2)==1) << endl; 
 
     return 0;
 }

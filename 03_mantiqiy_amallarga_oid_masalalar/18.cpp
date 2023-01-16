@@ -5,12 +5,12 @@
 
 using namespace std;
 
-int main()
-{
-    int a = 2, b = 4, c = 4;
+int main() {
+
+    int a = 4, b = 4, c = 7;
     bool natija;
 
-    cout << " natija = " << ((a>0) && (b==c)) << endl;
+    cout << " natija = " << (((a>0) && (b==c)) || ((a==b) && (c>0)) ||((a==c) && (b>0))) << endl;
 
     return 0;
 }

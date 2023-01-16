@@ -4,7 +4,12 @@
 #include <iostream>
 
 using namespace std;
- int main()
- {
-   int
+ int main() {
+  
+   int a=6, b=2, c=1;
+   bool natija;
+
+   cout << " natija = " << ((a>b) && (b>c)) << endl;
+
+   return 0;
  }

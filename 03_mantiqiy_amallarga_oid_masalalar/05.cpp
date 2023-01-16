@@ -5,12 +5,12 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
+    
     int a = 1, b = -3;
     bool natija;
 
-    cout << " natija a = " << ( a >= 0 ) << " natija b = " << ( b < -2 ) << endl;
+    cout << " natija = " << ( a >= 0 ) && ( b < -2 ) << endl;
 
     return 0;
 }

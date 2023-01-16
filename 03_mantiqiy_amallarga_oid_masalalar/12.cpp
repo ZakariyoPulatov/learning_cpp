@@ -5,8 +5,8 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
+    
     int a = 2, b = 3, c = 3;
     bool natija;
 

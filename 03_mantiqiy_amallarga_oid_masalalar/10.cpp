@@ -5,9 +5,9 @@
 
 using namespace std;
 
-int main()
-{
-    int a = 1, b =1;
+int main() {
+
+    int a = 4, b =5;
     bool natija;
 
     cout << ((( a % 2 ) == 1 && ( b % 2 ) == 0) || (( a % 2 ) == 0 && ( b % 2 ) == 1)) << endl;

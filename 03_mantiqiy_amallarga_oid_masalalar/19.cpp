@@ -7,8 +7,10 @@ using namespace std;
 
 int main ()
 {
-    int a = 2, b = -5, c = 5;
+    int a = 2, b = -5, c = 8;
     bool natija;
 
-    
+    cout << " natija = " << (((a>0) && (b=-c)) || ((b>0) && (a=-c)) || ((c>0) && (a=-b))) << endl;
+
+    return 0;  
 }

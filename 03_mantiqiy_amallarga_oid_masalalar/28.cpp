@@ -5,15 +5,15 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
+    
     int x, y;
     bool natija;
 
     cout << " x = "; cin >> x;
     cout << " y = "; cin >> y;
 
-    cout << " natija = " << (((x>0) && (y>0)) || ((x>0) && (y<0))) << endl;
+    cout << " natija = " << (((x>0) && (y>0)) || ((x<0) && (y<0))) << endl;
 
     return 0;
 }
