@@ -6,13 +6,16 @@
 using namespace std;
 
 int main() {
-    int a=4, b=4;
+
+    int a=4, b=6;
 
     if (a != b){
         if (a<b) {
             cout << a << "-\n";
+
         }else {
             cout << b << "-\n";
+            
         }
     } else {
         cout << "kiritilgan sonlar teng!\n";

@@ -13,7 +13,7 @@ int main() {
     if (n>0) {
         n = n+1;
     } 
-
+    
     cout << "n = " << n << endl;
 
     return 0;
