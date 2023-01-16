@@ -18,8 +18,8 @@ int main() {
     }else if ((a>c) && (b>c)) {
         cout << " eng kichigi = " << c << endl;
     
-         return 0;
-         
+    return 0;
+
     }if ((a>b) && (a>c)) {
         cout << " eng kattasi = " << a << endl;
 
