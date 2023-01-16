@@ -20,6 +20,6 @@ int main() {
         cout << " a = " << (a * -1) << endl;
         cout << " b = " << (b * -1) << endl;
         cout << " c = " << (c * -1) << endl;
-        }
+    }
         return 0;
 }

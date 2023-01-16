@@ -15,11 +15,10 @@ int main() {
         cout << " b = " << a+b << endl;
 
         return 0;
-
+        
     }else (a==b); {
         cout << " a = " << (a=0) << endl;
         cout << " b = " << (b=0) << endl;
     }
-    
-    return 0;
+        return 0;
 }

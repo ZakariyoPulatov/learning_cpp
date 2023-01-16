@@ -6,7 +6,7 @@
 using namespace std;
 
 int main() {
-    
+
     int a=8, b=5;
 
     if (a>b) {
@@ -16,6 +16,5 @@ int main() {
         cout << " kattasi = " << b << endl; 
         cout << " kichigi = " << a << endl;
     }
-    
-    return 0;
+        return 0;
 }

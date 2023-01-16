@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
 
-    int a=6, b=55, c=10;
+    int a=60, b=55, c=10;
 
     if ((a>b) && (b>c)) {
         cout << " kichigi = " << c << endl;

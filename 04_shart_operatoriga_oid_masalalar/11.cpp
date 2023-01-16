@@ -8,7 +8,7 @@ using namespace std;
 
 int main() {
 
-    int a=10, b=10;
+    int a=2, b=4;
 
     if (a!=b) {
 

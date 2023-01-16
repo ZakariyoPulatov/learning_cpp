@@ -18,6 +18,5 @@ int main() {
     cout << " kichigi = " << b << endl;
     cout << " kattasi = " << a << endl;
     
-
     return 0;
 }
