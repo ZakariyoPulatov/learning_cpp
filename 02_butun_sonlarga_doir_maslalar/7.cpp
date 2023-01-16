@@ -5,8 +5,8 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
+    
     int raqam = 54;
 
     cout << raqam << "raqamalar yig'indisi= " << ( raqam / 10 ) + (raqam % 10 ) <<  endl;

@@ -5,8 +5,8 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
+    
     int sekund = 7200;
 
     cout << sekund << " sekudda= " << sekund / 3600 << " soat " << sekund / 60 << " minut " << sekund / 1 << " sekund o'tdi" << endl;

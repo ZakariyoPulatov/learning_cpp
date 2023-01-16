@@ -6,8 +6,8 @@
 
 using namespace std;
 
-int main() 
-{
+int main() {
+    
     int kg = 234;
 
     cout << kg << " kg da " << kg / 1000 << " tonna bor\n";

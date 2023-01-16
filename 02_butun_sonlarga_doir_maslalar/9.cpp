@@ -6,8 +6,8 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
+    
     int son = 123;
 
     cout << son << "yuzlar xonasidagi raqam= " << son / 100 << endl;

@@ -6,8 +6,8 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
+    
     int raqam = 75;
 
     cout << raqam " 'orin almashtirish= " << ( raqam / 10 ) + ( raqam % 10 * 10 )<< endl;

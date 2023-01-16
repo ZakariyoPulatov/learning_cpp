@@ -6,8 +6,8 @@
 
 using namespace std;
 
-int main() 
-{
+int main() {
+    
     int sm = 234;
 
     cout << sm << " sm da " << sm / 100 << " metr bor\n";

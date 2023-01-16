@@ -5,8 +5,8 @@
 
 using namespace std;
 
-int main() 
-{
+int main() {
+    
     int a, b;
 
     cout << "a = ";     cin >> a;

@@ -5,8 +5,8 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
+    
     int son = 567;
 
     cout << son << "_ko'rinish_= " << (son/100) + (son%100/10*10) + (son%10*100) << endl;

@@ -6,8 +6,8 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
+    
     int kirish = 1234;
 
     cout << kirish << " chiqish= " << (kirish/1000) << endl;

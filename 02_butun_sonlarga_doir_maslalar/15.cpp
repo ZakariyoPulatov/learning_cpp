@@ -6,8 +6,8 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
+    
     int kirish = 123;
 
     cout << kirish << " natija = " << (kirish/100*10) + (kirish%100/10*100) + (kirish%10) << endl;

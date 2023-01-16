@@ -5,8 +5,8 @@
 
 using namespace std;
 
-int main() 
-{
+int main() {
+    
     int son = 123;
 
     cout <<son << "raqamlar yig'indisi= " << (son/100) + (son%100/10) + (son%10)  << endl;

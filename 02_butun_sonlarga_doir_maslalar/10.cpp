@@ -6,8 +6,8 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
+    
     int number = 123;
 
     cout << number << " ning birlar xonasidagi raqami: " << number % 10 <<  endl;

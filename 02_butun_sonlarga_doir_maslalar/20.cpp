@@ -5,8 +5,8 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
+    
     int sekunt = 3600;
 
     cout << sekunt << " sekut da= " << sekunt / 60 / 60 << " soat o'tdi " << endl;

@@ -6,8 +6,8 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
+    
     int kirish = 123;
 
     cout << kirish << "chiqish= " << (kirish/100*100) + (kirish%100/10) + (kirish%10*10) << endl;
