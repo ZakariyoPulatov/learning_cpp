@@ -11,15 +11,16 @@ int main() {
     float a=6, b=3, c=5;
 
     if ((a<b) && (b<c)) {
-        cout << " a = " << a + 2 << endl;
-        cout << " b = " << b + 2 << endl;
-        cout << " c = " << c + 2 << endl;
+        cout << " a = " << a * 2 << endl;
+        cout << " b = " << b * 2 << endl;
+        cout << " c = " << c  2 << endl;
 
         return 0;
-    }else { 
-        cout << " a = " << (a * -1) << endl;
-        cout << " b = " << (b * -1) << endl;
-        cout << " c = " << (c * -1) << endl;
     }
-        return 0;
+
+    cout << " a = " << (a * -1) << endl;
+    cout << " b = " << (b * -1) << endl;
+    cout << " c = " << (c * -1) << endl;
+    
+    return 0;
 }

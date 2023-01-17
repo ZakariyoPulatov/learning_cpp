@@ -7,27 +7,35 @@ using namespace std;
 
 int main() {
 
-    int a=8, b=1, c=3;
+    int a=8, b=1, c=0;
 
     if ((a<b) && (a<c)) {
+
         cout << " eng kichigi = " << a << endl;
 
-    }else if ((a>b) && (b<c)) {
+    } else if ((a>b) && (b<c)) {
+
         cout << " eng kichigi = " << b << endl;
 
-    }else if ((a>c) && (b>c)) {
-        cout << " eng kichigi = " << c << endl;
-    
-    return 0;
+    } else if ((a>c) && (b>c)) {
 
-    }if ((a>b) && (a>c)) {
+        cout << " eng kichigi = " << c << endl;
+         
+    } 
+    
+    
+    if ((a>b) && (a>c)) {
+
         cout << " eng kattasi = " << a << endl;
 
-    }else if ((a<b) && (b>c)) {
+    } else if ((a<b) && (b>c)) {
+
         cout << " eng kattasi = " << b << endl;
 
-    }else if ((a<c) && (b<c)) {
+    } else if ((a<c) && (b<c)) {
+
         cout << " eng kattasi = " << c << endl;
     }
+
     return 0;
 }

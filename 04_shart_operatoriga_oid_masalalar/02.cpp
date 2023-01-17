@@ -8,13 +8,14 @@ using namespace std;
 
 int main() {
     
-    int n=5;
+    int n = 0;
 
-    if (n>0) {
-        n = n+1;
-    }else {
-        n = n-2;
+    if ( n > 0 ) {
+        n = n + 1;
+    } else if (n < 0) {
+        n = n - 2;
     }
+
     cout << " n = " << n << endl;
 
     return 0;

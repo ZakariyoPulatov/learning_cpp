@@ -2,24 +2,18 @@
 // Muallif: Zakariyo Pulatov
 // Maqsad: Sonlar o'qida uchta a, b, c nuqtalar berilgan. a nuqtaga eng yaqin nuqta va ular orasidagi masofa aniqlansin
 #include <iostream>
+#include <cmath>
+
 
 using namespace std;
 
 int main() {
 
-    int a=1, b=99, c=100;
+    int a=1, b=-5, c=-4;
 
-    if ((a<b) && (b<c)) {
-        cout << "eng yaqini = " << b << ", masofasi = " << b-a << endl;
-
-    }else if ((a>b) && (b<c)) {
-        cout << "eng yaqini = " << b << ", masofasi = " << a-b << endl;
-
-    }if ((a<c) && (c<b)) {
-        cout << " eng yaqini = " << c << ", masofasi = " << c-a << endl;
-
-    }else if ((a>c) && (c>b)) {
-        cout << " eng yaqini = " << c << ", masofasi = " << a-c << endl;
+    if (abs(a-b) < abs(a-c)){
+        cout << b << endl;
+    } else {
+        cout << c << endl;
     }
-    return 0;
 }

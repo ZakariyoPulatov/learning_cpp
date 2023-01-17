@@ -7,16 +7,15 @@ using namespace std;
 
 int main() {
 
-    int a=4, b=3, c=5;
+    int a=4, b=9, c=5;
 
-    if ((a>b) && (b<c)) {
+    if ((a>b) && (a<c)) {
         cout << " a soni " << b << " dan katta " << c << " dan kichik!\n";
-    
-    }if ((a<b) && (b<c)) {
+    } else if ((a<b) && (b<c)) {
         cout << " b soni " << a << " dan katta " << c << " dan kichik!\n";
-    
-    }if ((a<c) && (b>c)) {
+    } else {
         cout << " c soni " << a << " dan katta " << b << " dan kichik!\n";
     }
+    
     return 0;
 }
