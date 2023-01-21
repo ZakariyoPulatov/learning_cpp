@@ -1,3 +1,3 @@
 // Sana: 2023.01.18
 // Muallif: Zakariyo Pulatov
-// Maqsad:
+// Maqsad: Teng tomonli uchburchak

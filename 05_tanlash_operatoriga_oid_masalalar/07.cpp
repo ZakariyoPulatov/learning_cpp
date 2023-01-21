@@ -20,4 +20,5 @@ int main() {
     
     default: cout << " xato raqam!\n"; break;
     }
+    return0;
 }
