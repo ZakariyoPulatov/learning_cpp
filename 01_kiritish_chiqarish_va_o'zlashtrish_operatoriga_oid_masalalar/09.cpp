@@ -6,11 +6,22 @@
 
 using namespace std;
 
+void n();
+void n(int a, int b);
+
 int main()
-{
-    float a = 4, b = 5;
-
-    cout << " o'rta geometri = " << sqrt(a*b) << endl;
-
+{   
+    n();
+    n(2, 10);
     return 0; 
+}
+void n() {
+
+    int a = 2, b = 10;
+
+    cout << " o'rta arifmetgi = " << sqrt(a*b) << endl;
+}
+void n(int a, int b) {
+
+    cout << " o'rta arifmetgi = " << sqrt(a*b) << endl;
 }

@@ -5,12 +5,23 @@
 #include <math.h>
 
 using namespace std;
+void n();
+void n(int a, int b);
 
 int main()
 {
-    int a = 4, b = 6;
-
-    cout << " o'rta arif = " << ( a + b ) / 2 << endl;
+    n();
+    n(4, 6);
 
     return 0;
 }
+void n() {
+
+    int a = 4, b = 6;
+
+    cout << " o'rta arifmetigi = " << ( a + b ) / 2 << endl;
+}
+void n(int a, int b) {
+   
+    cout << " o'rta arifmetigi = " << ( a + b ) / 2 << endl;
+} 
