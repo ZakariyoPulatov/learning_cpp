@@ -5,11 +5,21 @@
 
 using namespace std;
 
-int main()
-{
+void P_1();
+void P_2(int a);
+
+int main() {
+    P_1();
+    P_2(2);
+    return 0;
+}
+
+void P_1() {
     int a = 5;
 
     cout << " P = " << 4 * a << endl;
+}
 
-    return 0;
+void P_2(int a) {
+    cout << " P = " << 4 * a << endl;
 }

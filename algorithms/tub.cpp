@@ -18,7 +18,6 @@ int main() {
   } else {
     cout << n << " soni tub emas\n";
   }
-
   
   return 0;
 }

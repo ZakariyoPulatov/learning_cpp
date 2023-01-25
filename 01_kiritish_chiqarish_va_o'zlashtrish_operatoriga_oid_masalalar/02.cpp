@@ -5,11 +5,26 @@
 
 using namespace std;
 
-int main()
-{
-    int a = 5;
+void S_1 ();
+void S (int a);
+
+int main() {
+
+    int a = 4;
+
+    S (a);
+    S_1 ();
+    return 0;
+}
+
+void S (int a) {
 
     cout << " S = " << a * a << endl;
+}
 
-    return 0;
+void S_1 () {
+
+    int a = 4;
+
+    cout << " S = " << a * a << endl;
 }
