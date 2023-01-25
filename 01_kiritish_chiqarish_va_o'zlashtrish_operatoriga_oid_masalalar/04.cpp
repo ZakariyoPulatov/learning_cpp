@@ -5,11 +5,24 @@
 
 using namespace std;
 
-int main()
-{
+void L_1();
+void L_2(int d);
+
+int main() { 
+
+    L_1();
+    L_2(10);
+    
+    return 0;
+}
+void L_1() {
+
     int d = 10;
 
-    cout << " L = " << 3.14 * d << endl;
+    cout << " l = " << 3.14 * d << endl;
+}
+void L_2(int d) {
 
-    return 0;
+    cout << " l = " << 3.14 * d << endl;
+
 }
