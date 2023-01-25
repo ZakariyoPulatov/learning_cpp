@@ -5,12 +5,38 @@
 
 using namespace std;
 
+void V_1();
+void V_2(int a, int b, int c);
+void S_1();
+void S_2(int a, int b, int c);
+
 int main()
 {
-    int a = 2, b = 3, c = 4;
+    V_1();
+    V_2(1, 2, 3);
+    S_1();
+    S_2(1, 2, 3);
 
-    cout << " V = " << a * b * c << endl;
-    cout << " S = " << 2 * ( a*b + b*c + a*c ) << endl;
 
     return 0;
+}
+void V_1() {
+
+    int a = 1, b = 2, c = 3;
+
+    cout << " V_1 = " << a * b * c << endl;
+}
+void V_2(int a, int b, int c) {
+
+    cout << " V_2 = " << a * b * c << endl;
+}
+void S_1() {
+
+    int a = 1, b = 2, c = 3;
+
+    cout << " S_1 = " << a * b * c << endl;
+}
+void S_2(int a, int b, int c) {
+
+    cout << " S_2 = " << a * b * c << endl;
 }

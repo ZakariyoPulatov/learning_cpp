@@ -19,10 +19,10 @@ void L_1() {
 
     int d = 10;
 
-    cout << " l = " << 3.14 * d << endl;
+    cout << " l_1 = " << 3.14 * d << endl;
 }
 void L_2(int d) {
 
-    cout << " l = " << 3.14 * d << endl;
+    cout << " l_2 = " << 3.14 * d << endl;
 
 }

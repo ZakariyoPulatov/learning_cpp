@@ -23,19 +23,19 @@ void V_1() {
 
     int a = 10;
 
-    cout << " V = " << a * a * a << endl;   
+    cout << " V_1 = " << a * a * a << endl;   
 }
 void V_2(int a) {
     
-    cout << " V = " << a * a * a << endl;
+    cout << " V_2 = " << a * a * a << endl;
 }
 void S_1() {
 
     int a = 10;
 
-    cout << " S = " << a * a * a << endl;   
+    cout << " S_1 = " << a * a * a << endl;   
 }
 void S_2(int a) {
     
-    cout << " S = " << a * a * a << endl;
+    cout << " S_2 = " << a * a * a << endl;
 }
