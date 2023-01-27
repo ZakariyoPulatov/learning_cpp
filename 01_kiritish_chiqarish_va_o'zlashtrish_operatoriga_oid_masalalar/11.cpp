@@ -6,13 +6,31 @@
 
 using namespace std;
 
-int main()
-{
-    int a = 5, b = 6;
+void yigindisi() {
+
+    int a = 2, b = 3;
 
     cout << " a + b = " << a + b << endl;
+}
+
+void kopaytmasi() {
+
+    int a = 2, b = 3;
+
     cout << " a * b = " << a * b << endl;
-    cout << " moduli a = " << abs(a) << " moduli b = " << abs(b) << endl;
+}
+
+void moduli() {
+
+    int a = 2, b = 3;
+
+    cout << " modul a = " << abs(a) << ", modul b = " << abs(b) << endl;
+}
+int main() {
+
+    yigindisi();
+    kopaytmasi();
+    moduli();
 
     return 0;
 }
