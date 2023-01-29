@@ -18,12 +18,15 @@ int main() {
 
 // qiymat qaytaradi, argument qabul qilmaydi
 string hello() {
+
     string word = "string hello()";
+
     return word;
 }
 
 // qiymat qaytaradi, argument qabul qiladi
 string world(string word) {
+    
     return "hello " + word;
 }
 

@@ -6,15 +6,22 @@
 
 using namespace std;
 
-int main()
-{
-    int a = 5, b = 6;
-    float c;
+float gipatenuzasi(int a, int b) {
 
-    c = sqrt( a*a + b*b );
+   return sqrt( a * a + b * b );  
+}
 
-    cout << " p = " << a + b + c << endl;
-    cout << " gipatenuza = " << c << endl;
+void peremetri(int a, int b) {
 
+    float c = gipatenuzasi(a, b);
+
+    cout << " p = " << a + b + c << endl; 
+}
+
+int main() {
+
+    int a = 4, b = 4;
+    void peremetri(a, b);
+ 
     return 0;
 }

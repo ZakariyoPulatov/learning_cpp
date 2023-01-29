@@ -6,9 +6,10 @@ using namespace std;
 int add(int x, int y);
 
 int main() {
-    cout << add(5, 7) << endl;
-    return 0;
 
+    cout << add(5, 7) << endl;
+
+    return 0;
 }
 
 // qiymat qaytaradi, argument qabul qiladi

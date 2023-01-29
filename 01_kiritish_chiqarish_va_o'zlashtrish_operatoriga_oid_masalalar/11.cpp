@@ -26,6 +26,7 @@ void moduli() {
 
     cout << " modul a = " << abs(a) << ", modul b = " << abs(b) << endl;
 }
+
 int main() {
 
     yigindisi();
