@@ -3,7 +3,7 @@
 using namespace std;
 
 int main () {
-    int n = 5, index = 0;
+    int n = 15, index = 0;
     int numbers[n/2 + 1];
 
     for (int i = 1; i <= n; i++) {

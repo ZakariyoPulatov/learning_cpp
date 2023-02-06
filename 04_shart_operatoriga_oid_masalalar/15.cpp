@@ -26,7 +26,7 @@ int main() {
         }
 
     } else  {
-        
+          
         if (a > b) {
             cout << c << " va " << a << endl;
         } else {

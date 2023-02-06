@@ -13,7 +13,5 @@ int main() {
         cout << i*i*i << endl;
     }
 
-    
-
     return 0;
 }

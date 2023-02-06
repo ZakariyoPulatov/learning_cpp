@@ -7,13 +7,16 @@
 
 using namespace std; 
 
-int main()
-{
-    int r1 = 6, r2 = 4;
-    
-    cout << " s1 = " << 3.14 * r1 << endl;
-    cout << " s2 = " << 3.14 * r2 << endl;
-    cout << " s3 = " << 3.14 * ( r1 - r2 ) << endl;
+    int yuza1(int r1, int r2) {
+
+    return 3.14 * r1;
+    }
+
+int main() {
+
+    int r1 = 2, r2 = 6;
+
+    yuza1 r1);
 
     return 0; 
 }

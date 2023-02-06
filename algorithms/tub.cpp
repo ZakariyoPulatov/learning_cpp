@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-  int  n = 15;
+  int  n = 55;
   bool idf = true;
 
   for (int i = 2; i < n; i++) {
